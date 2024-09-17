@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(234, 215, 218);
+
+}
+button {
+    background-color: #FF3F6C;
+    color: azure;
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    padding: 3px 6px;
+   
+  
+    margin-top: 5%;
+    
+}
+input {
+     width: 250px;
+    margin: 10px; 
+}
+.Login {
+    background-color: white;
+    height: 75%;
+    width: 23%;
+   
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h3 {
+   color: black;
+   font-size: 2rem;
+
+}
+.Submit {
+    display: flex;
+    justify-content: center;
+}
